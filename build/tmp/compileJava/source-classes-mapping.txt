@@ -1,0 +1,6 @@
+controller/DictionaryController.java
+ controller.DictionaryController
+AppConfig.java
+ AppConfig
+WebConfig.java
+ WebConfig
